@@ -1,4 +1,4 @@
-# README #
+# Easy Curl #
 
 ## Overview ##
 Easy Curl is a simple easy to use wrapper library for PHP curl
